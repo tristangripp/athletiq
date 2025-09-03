@@ -52,14 +52,14 @@ Athletiq’s roadmap is actively managed in Notion. Current milestones include:
 git clone https://github.com/yourusername/athletiq.git
 cd athletiq
 
-2. Install dependencies
+3. Install dependencies
 npm install
 
-3. Add Supabase project keys in .env
+4. Add Supabase project keys in .env
 SUPABASE_URL=your_url
 SUPABASE_KEY=your_key
 
-4. Run locally with Expo
+5. Run locally with Expo
 npx expo start
 
 ---
