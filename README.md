@@ -50,8 +50,8 @@ Athletiq’s roadmap is actively managed in Notion. Current milestones include:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/athletiq.git
-   cd athletiq
+git clone https://github.com/yourusername/athletiq.git
+cd athletiq
 
 2. Install dependencies
 npm install
